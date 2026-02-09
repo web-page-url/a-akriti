@@ -5,7 +5,7 @@ import { Activity, Heart, Sparkles } from "lucide-react";
 
 export const Experience = () => {
     return (
-        <section className="py-32 relative overflow-hidden">
+        <section id="experience" className="py-32 relative overflow-hidden">
             <div className="absolute top-1/2 -left-20 w-80 h-80 bg-neon-purple/5 rounded-full blur-[100px]" />
             <div className="container mx-auto px-6 md:px-12 relative z-10">
                 <div className="flex flex-col lg:flex-row gap-20">

@@ -1,7 +1,7 @@
 🧭 NAV BAR (CONTENT)
 
 Left (Name / Brand)
-Akriti Chaudhary
+Akriti 
 
 Right (Navigation Items)
 
@@ -21,7 +21,7 @@ Download Resume
 🪶 HERO / EXECUTIVE INTRO
 
 Name (Primary Heading)
-Akriti Chaudhary
+Akriti 
 
 Title (Subheading)
 Senior Data Scientist · Analytics & Decision Intelligence
@@ -179,4 +179,4 @@ Footer Text
 Designed with precision, clarity, and restraint.
 
 Copyright
-© 2026 Akriti Chaudhary
+© 2026 Akriti 
